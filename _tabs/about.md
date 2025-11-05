@@ -5,7 +5,7 @@ order: 4
 ---
 
 Hi, "im Kennedy Robiro", a cybersecurity and AI enthusiast.
- -Skilled in Network and Web App Security.
- -Passionate about CTFs.
- -Building a safer cyberspace through awareness.
- -Exploring AI, ML and DL.
+ - Skilled in Network and Web App Security.
+ - Passionate about CTFs.
+ - Building a safer cyberspace through awareness.
+ - Exploring AI, ML and DL.
